@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menuCamera"
+        android:title="Mở camera"
+        />
+    <item android:id="@+id/menuThuVien"
+        android:title="Mở thư viện ảnh"/>
+</menu>

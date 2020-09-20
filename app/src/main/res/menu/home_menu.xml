@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_Lichsu"
+        android:icon="@drawable/ic_lichsu"
+        android:title="@string/lichsu" />
+    <item
+        android:id="@+id/navigation_danhBa"
+        android:icon="@drawable/ic_danhba"
+        android:title="@string/danhba" />
+    <item
+        android:id="@+id/navigation_yeuthich"
+        android:icon="@drawable/ic_star_24dp"
+        android:title="@string/yeuthich" />
+
+</menu>
